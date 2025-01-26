@@ -3,7 +3,7 @@ services:
     name: my-python-bot
     env: python
     buildCommand: ""
-    startCommand: ./start.sh
+    startCommand: start.sh
     envVars:
       - key: TOKEN
         value: "8022858820:AAFytE3YsPYjt11df6wGAXMuGQvQowRTRDM"
