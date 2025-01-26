@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: my-python-bot
+    env: python
+    buildCommand: ""
+    startCommand: ./start.sh
+    envVars:
+      - key: TOKEN
+        value: "8022858820:AAFytE3YsPYjt11df6wGAXMuGQvQowRTRDM"
+      - key: FILE_PATH
+        value: modules_met_uitleg.xlsx
