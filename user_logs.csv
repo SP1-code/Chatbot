@@ -1,0 +1,178 @@
+2025-01-17 19:59:56.102510,7788661488,Onbekend,Foto geüpload,UCTI 016
+"2025-01-17 19:59:56.306170,7788661488,Onbekend,UCTI 016,""Module: UCTI"
+Foutcode: 16
+Beschrijving: Drive pedal B
+
+Oplossingen:
+"1. Check the wiring. Replace the potentiometer of the accelerator pedal"""
+"2025-01-17 20:00:04.090174,7788661488,Onbekend,Dlog 8,""Module: DLOG"
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer zekering F1
+3. Controleer stekker XCA
+"4. Controleer Draad 5"""
+"2025-01-17 20:00:08.883744,7788661488,Onbekend,Mcb 100,""Module: MCB"
+Foutcode: 100
+Beschrijving: C.C. OUT 19 – Power supply SCMD3 
+
+Oplossingen:
+"1.  Check wiring"""
+2025-01-17 20:01:58.062655,7788661488,Sandy_Pattyn,Dlog 100,Foutcode 100: Ongeldige foutcode.
+"2025-01-17 20:02:05.654799,7788661488,Sandy_Pattyn,Airco,"""
+koelmiddel oude cabine
+mcss 1400gr R134A
+landbouw 1300gr R134A
+olie 50cc
+
+koelmiddel oude cabine na SB1914
+mcss 1200gr R134A
+landbouw 1100gr R134A
+olie 50cc
+
+
+koelmiddel nieuwe cabine
+mcss 1200gr R134A
+"landbouw 1100gr - 1200gr R134A max (afhankelijk gewenste """"koude"""")"
+"olie 50cc"""
+2025-01-17 20:05:40.171075,7788661488,Sandy_Pattyn,Foto geüpload,UCTI 016
+"2025-01-17 20:05:40.373487,7788661488,Sandy_Pattyn,UCTI 016,""Module: UCTI"
+Foutcode: 16
+Beschrijving: Drive pedal B
+
+Oplossingen:
+"1. Check the wiring. Replace the potentiometer of the accelerator pedal"""
+"2025-01-17 20:18:16.191465,7788661488,Sandy_Pattyn,Ucti 16,""Module: UCTI"
+Foutcode: 16
+Beschrijving: Drive pedal B
+
+Oplossingen:
+"1. Check the wiring. Replace the potentiometer of the accelerator pedal"""
+2025-01-17 20:18:30.628691,7788661488,Sandy_Pattyn,Foto geüpload,UCTI 016
+"2025-01-17 20:18:30.732844,7788661488,Sandy_Pattyn,UCTI 016,""Module: UCTI"
+Foutcode: 16
+Beschrijving: Drive pedal B
+
+Oplossingen:
+"1. Check the wiring. Replace the potentiometer of the accelerator pedal"""
+"2025-01-17 20:18:38.721193,7788661488,Sandy_Pattyn,Dlog 8,""Module: DLOG"
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer zekering F1
+3. Controleer stekker XCA
+"4. Controleer Draad 5"""
+"2025-01-17 20:21:28.167977,7788661488,sandy_pattyn,Dlog 8,""Module: DLOG"
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer zekering F1
+3. Controleer stekker XCA
+"4. Controleer Draad 5"""
+2025-01-18 18:22:52.409963,7788661488,sandy_pattyn,Mcb2,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:22:58.755514,7788661488,sandy_pattyn,Airco,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:25:55.185387,7788661488,sandy_pattyn,airco,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:28:02.981795,7788661488,sandy_pattyn,Mcb1,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:44:55.663325,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU"
+2025-01-18 18:46:38.433220,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
+2025-01-18 18:47:08.025529,7788661488,sandy_pattyn,Airco,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:47:17.348830,7788661488,sandy_pattyn,airco,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:48:14.350411,7788661488,sandy_pattyn,Airco,Geen module of bijbehorende foutcode gevonden. Ook geen overeenkomende vraag in 'ALGEMEEN'.
+2025-01-18 18:48:54.432060,7788661488,sandy_pattyn,Airco,gasvulling
+2025-01-18 18:49:05.433559,7788661488,sandy_pattyn,Adres,koekoek
+2025-01-18 19:13:24.181981,7788661488,sandy_pattyn,Dlog 3,Foutcode 3: Ongeldige foutcode.
+2025-01-18 19:13:32.474478,7788661488,sandy_pattyn,dlog 9,Foutcode 9: Ongeldige foutcode.
+2025-01-18 19:13:37.081346,7788661488,sandy_pattyn,Dlog 10,Foutcode 10: Ongeldige foutcode.
+2025-01-18 19:13:49.164321,7788661488,sandy_pattyn,Dlog 11,"Module: DLOG
+Foutcode: 11
+Beschrijving: I2C bus error 
+
+Oplossingen:
+1. Replace ECU"
+2025-01-18 19:14:07.085695,7788661488,sandy_pattyn,Foto geüpload,UCTI 016
+2025-01-18 19:14:07.398678,7788661488,sandy_pattyn,UCTI 016,"Module: UCTI
+Foutcode: 16
+Beschrijving: Drive pedal B
+
+Oplossingen:
+1. Check the wiring. Replace the potentiometer of the accelerator pedal"
+2025-01-18 19:14:56.238129,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
+2025-01-18 19:15:13.849338,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
+2025-01-18 19:39:24.067434,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
+2025-01-18 19:48:52.681036,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
+2025-01-18 19:49:45.278709,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
+2025-01-19 13:15:37.833991,7788661488,sandy_pattyn,Dlog 8,"Module: DLOG
+Foutcode: 8
+Beschrijving: ADC conversion error 
+
+Oplossingen:
+1. Replace ECU
+2. Controleer stekker
+3. controleer bekabeling
+4. vervang dlog
+5. Schakel machine uit"
